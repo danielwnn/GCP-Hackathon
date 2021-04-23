@@ -28,6 +28,16 @@ This workshop is meant for an AI Developer on Azure. Since our time today is lim
 - AI and ML
     - Basic understanding and knowledge about data engineering and model training with [AutoML Vision](https://cloud.google.com/vision/automl).
 
+## Prerequisites
+This is a list of pre-requisites needed to successfully complete the challenges.  Some of these are items to deploy to your development machine.  Some are decisions you should discuss and define as a team, like the framework to use for developing a python Web application.
+
+1. GCP Project
+    - You must have a GCP project to use for the hackathon. Either use your existing project or setup a free trial to complete today’s challenges.
+2. Vision API, Cloud Storage API and AI Platform
+    - Please enable these APIs by using either GCP Console or gcloud commands.
+3. Service Account
+    - Please create a service account and grant proper roles and permissions.
+
 ## Challenges
 Your team’s mission is to learn more about AI Platform through hands-on practice by completing challenges in two key areas: AutoML and ML Pipeline.
 
@@ -40,3 +50,19 @@ Your team starts by building a simple Python Web application that allows you to 
 - Challenge 5: **[Deploy the Web app to GKE]()**
 - Challenge 6: **[Create a ML Pipeline to manage dataset, model training and deployment]()**
 - Challenge 7: **[Automate environment provisioning, app build and deployment]()**
+
+## Resources & Helpful Links
+- GCP Project
+    - <https://cloud.google.com/resource-manager/docs/creating-managing-projects>
+- Cloud Shell
+    - <https://cloud.google.com/shell>
+- Service Account
+    - <https://cloud.google.com/iam/docs/service-accounts>
+- AutoML Vision
+    - <https://cloud.google.com/vision/automl>
+- App Engine
+    - <https://cloud.google.com/appengine>
+- Visual Studio Code
+    - <https://code.visualstudio.com>
+- Python Flask
+    - <https://flask.palletsprojects.com/en/1.1.x/>   
