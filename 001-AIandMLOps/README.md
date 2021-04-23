@@ -52,17 +52,10 @@ Your team starts by building a simple Python Web application that allows you to 
 - Challenge 7: **[Automate environment provisioning, app build and deployment]()**
 
 ## Resources & Helpful Links
-- GCP Project
-    - <https://cloud.google.com/resource-manager/docs/creating-managing-projects>
-- Cloud Shell
-    - <https://cloud.google.com/shell>
-- Service Account
-    - <https://cloud.google.com/iam/docs/service-accounts>
-- AutoML Vision
-    - <https://cloud.google.com/vision/automl>
-- App Engine
-    - <https://cloud.google.com/appengine>
-- Visual Studio Code
-    - <https://code.visualstudio.com>
-- Python Flask
-    - <https://flask.palletsprojects.com/en/1.1.x/>   
+- GCP Project - <https://cloud.google.com/resource-manager/docs/creating-managing-projects>
+- Cloud Shell - <https://cloud.google.com/shell>
+- Service Account - <https://cloud.google.com/iam/docs/service-accounts>
+- AutoML Vision - <https://cloud.google.com/vision/automl>
+- App Engine - <https://cloud.google.com/appengine>
+- Visual Studio Code - <https://code.visualstudio.com>
+- Python Flask - <https://flask.palletsprojects.com/en/1.1.x/>   
