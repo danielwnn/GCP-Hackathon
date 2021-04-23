@@ -27,3 +27,16 @@ This workshop is meant for an AI Developer on Azure. Since our time today is lim
     - Previous exposure to an IDE tool will be helpful. You should be familiar with how to use [Visual Studio Code](https://code.visualstudio.com) to develop Python applications. We assume each team will have some familiarity with Python (intermediate level - you can learn here).
 - AI and ML
     - Basic understanding and knowledge about data engineering and model training with [AutoML Vision](https://cloud.google.com/vision/automl).
+
+## Challenges
+Your team’s mission is to learn more about AI Platform through hands-on practice by completing challenges in two key areas: AutoML and ML Pipeline.
+
+Your team starts by building a simple Python Web application that allows you to take photos from your face using your Web camera, then upload the photos to Cloud Storage. You will use AutoML to train an image classification model for recognizing the face photos. Once you have this face model tested and deployed, you will integrate it with the Web application to implement a simple face recognition system.
+
+- Challenge 1: **[Implement a Web app to take photos and upload them to Cloud Storage]()**
+- Challenge 2: **[Deploy the Web app to App Engine]()**
+- Challenge 3: **[Use AutoML Vision to train a model to recognize faces]()**
+- Challenge 4: **[Integrate the Web app with the deployed face model]()**
+- Challenge 5: **[Deploy the Web app to GKE]()**
+- Challenge 6: **[Create a ML Pipeline to manage dataset, model training and deployment]()**
+- Challenge 7: **[Automate environment provisioning, app build and deployment]()**
