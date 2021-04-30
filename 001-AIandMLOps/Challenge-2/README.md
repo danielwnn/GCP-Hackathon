@@ -4,7 +4,7 @@ Smart Solutions Inc. has chosen Google Cloud to host the Web application, and th
 ## Prerequisites
 This challenge is based on the work you've done in challenge 1. 
 
-## Requiremens
+## Requirements
 To pass this challenge, the solution needs to satisfy all the requirements listed below:
 - Auto scale based on traffic as quickly as possible
 - Able to A/B test the Web application with traffic splitting
