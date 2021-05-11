@@ -43,4 +43,6 @@ Cloud Storage Libraries - <https://cloud.google.com/storage/docs/reference/libra
 ### DEV NOTES [TODO: delete this prior to publication]
 1. research how to support Dart language on App Engine
    - [05/06/2021 - Dart support for Google AppEngine](https://pub.dev/packages/appengine)
-  
+    
+2. research how to deploy Flutter apps to App Engine
+   - [Debugging, Building, Deploying Flutter to App Engine](https://morioh.com/p/6d2792c1a94e)
