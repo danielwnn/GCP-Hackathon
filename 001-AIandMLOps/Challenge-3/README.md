@@ -1,4 +1,4 @@
-# Challenge 3: Implement a Solution that will identify a person by face recognition
+# Challenge 3: Use AutoML Vision to train and deploy a model to recognize faces
 
 ## Prerequisites
 
