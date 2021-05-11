@@ -2,12 +2,15 @@ runtime: python39
 # env: flex
 api_version: 1 # check this
 threadsafe: true
-
+entrypoint: gunicorn -b :$PORT main:app
 
 handlers:
   - url: /.*
     script: main.app
 
-libraries:
-  - name: flask
-    version:1.1.2
+#libraries:
+#  - name: flask
+#    version:1.1.2
+
+env_variables:
+  CLOUD_STORAGE_BUCKET: your-storage-bucket-name
