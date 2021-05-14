@@ -1,4 +1,4 @@
-# Challenge 2: Develop a machine learning model to identify a person by face photo
+# Challenge 3: Train a machine learning model to identify a person by face photo
 Smart Solutions Inc. wants to use face recognition to authenticate users into online systems. 
 
 ## Prerequisites
