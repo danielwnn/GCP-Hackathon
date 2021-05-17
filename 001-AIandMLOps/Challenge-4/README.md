@@ -1,4 +1,4 @@
-# Challenge 3: Integrate web app with deployed AutoML model
+# Challenge 4: Integrate web app with deployed AutoML model
 
 ## Prerequisites
 
