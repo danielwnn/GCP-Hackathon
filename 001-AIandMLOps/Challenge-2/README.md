@@ -4,18 +4,18 @@ Smart Solutions Inc. has chosen Google Cloud to host the Web application, and th
 ## Prerequisites
 This challenge is based on the work you've done in challenge 1. 
 
-## Requiremens
+## Requirements
 To pass this challenge, the solution needs to satisfy all the requirements listed below:
-- Auto scale based on traffic as quickly as possible
+- Auto-scale based on traffic as quickly as possible
 - Able to A/B test the Web application with traffic splitting
 - Secured at both network layer and application level against DDoS and application attacks, like XSS, SQL injection
 - Automate the Web application deployment through CI/CD
 
 ## Objectives 
 In this challenge, you will learn:
-- How to deploy and configure auto scale with Google Cloud App Engine
+- How to deploy and configure auto-scale with Google Cloud App Engine
 - How to configure traffic splitting for A/B testing
-- How to configure custom domian and enable HTTPS 
+- How to configure custom domain and enable HTTPS 
 - How to use Cloud Armor as WAF (Web Application Firewall)
 - How to implement CI/CD with Cloud Build
 
