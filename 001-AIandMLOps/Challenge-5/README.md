@@ -1,4 +1,4 @@
-# Challenge 3: Deploy the web app to GKE
+# Challenge 5: Deploy the web app to GKE
 
 ## Prerequisites
 
