@@ -11,15 +11,21 @@
 ## Considerations
 
 ## Requirements
+To pass this challenge, the solution needs to satisfy all the requirements listed below:
+- Able to make individual image predictions using images captured by the application
 
 ## Objectives
+In this challenge, you will learn:
+- How to make authenticated AutoML Vision API calls from an application back end
 
 ## Resources & Helpful Links
 ### Guides
 
 ### APIs & SDKs
-
+- AutoML Python Client API - <https://googleapis.dev/python/automl/latest/index.html>
+- AutoML REST API - <https://cloud.google.com/vision/automl/docs/reference/rest>
 ### Examples
+- AutoML online individual prediction - <https://cloud.google.com/vision/automl/docs/predict>
 
 
 
