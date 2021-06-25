@@ -25,3 +25,4 @@ In this challenge, you will learn:
 - Dataset Management - <https://cloud.google.com/vertex-ai/docs/datasets/datasets>
 - Import Model - <https://cloud.google.com/vertex-ai/docs/general/import-model>
 - Model prediction - <https://cloud.google.com/vertex-ai/docs/predictions/getting-predictions>
+- Code samples - <https://github.com/GoogleCloudPlatform/ai-platform-samples/tree/master/ai-platform-unified/notebooks/official>
