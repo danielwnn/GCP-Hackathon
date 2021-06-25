@@ -22,8 +22,10 @@ In this challenge, you will learn:
 ### Guides
 
 ### APIs & SDKs
-
+- AutoML Python Client API - <https://googleapis.dev/python/automl/latest/index.html>
+- AutoML REST API - <https://cloud.google.com/vision/automl/docs/reference/rest>
 ### Examples
+- AutoML online individual prediction - <https://cloud.google.com/vision/automl/docs/predict>
 
 
 

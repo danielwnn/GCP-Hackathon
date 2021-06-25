@@ -2,9 +2,9 @@
 
 ## Prerequisites
 
-1. A web app that deploys to App Engine  
-2. Google Kubernetes Engine API Enabled
-
+- A web app that deploys to App Engine  
+- Google Kubernetes Engine API Enabled
+- Required IAM permissions
 ## Considerations
 
 ## Requirements
@@ -19,7 +19,7 @@ To pass the challenge, the solution needs to satisfy all the requirements listed
 
 ## Objectives
 In this challenge, you will learn how to:
-- Package an application into a container image
+- Package an application into a container image using Cloud Build
 - Upload the image to Container Registry
 - Create a GKE cluster
 - Deploy the app to the cluster
@@ -29,10 +29,14 @@ In this challenge, you will learn how to:
 
 ## Resources & Helpful Links
 ### Guides
+- Building container images - <https://cloud.google.com/build/docs/building/build-containers>
+- Deploying to GKE - <https://cloud.google.com/build/docs/deploying-builds/deploy-gke>
+- Creating GitHub App triggers - <https://cloud.google.com/build/docs/automating-builds/create-github-app-triggers>
 
 ### APIs & SDKs
 
 ### Examples
+- Deploying a containerized web app - <https://cloud.google.com/kubernetes-engine/docs/tutorials/hello-app#objectives>
 
 
 
