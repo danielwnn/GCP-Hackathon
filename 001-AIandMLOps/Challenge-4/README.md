@@ -11,8 +11,12 @@
 ## Considerations
 
 ## Requirements
+To pass this challenge, the solution needs to satisfy all the requirements listed below:
+- Able to make individual image predictions using images captured by the application
 
 ## Objectives
+In this challenge, you will learn:
+- How to make authenticated AutoML Vision API calls from an application back end
 
 ## Resources & Helpful Links
 ### Guides
