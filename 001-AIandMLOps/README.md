@@ -43,13 +43,13 @@ Your team’s mission is to learn more about AI Platform through hands-on practi
 
 Your team starts by building a simple Python Web application that allows you to take photos from your face using your Web camera, then upload the photos to Cloud Storage. You will use AutoML to train an image classification model for recognizing the face photos. Once you have this face model tested and deployed, you will integrate it with the Web application to implement a simple face recognition system.
 
-- Challenge 1: **[Implement a Web app to take photos and upload them to Cloud Storage]()**
-- Challenge 2: **[Deploy the Web app to App Engine]()**
-- Challenge 3: **[Use AutoML Vision to train a model to recognize faces]()**
-- Challenge 4: **[Integrate the Web app with the deployed face model]()**
-- Challenge 5: **[Deploy the Web app to GKE]()**
-- Challenge 6: **[Create a ML Pipeline to manage dataset, model training and deployment]()**
-- Challenge 7: **[Automate environment provisioning, app build and deployment]()**
+- Challenge 1: **[Implement a Web app to take photos and upload them to Cloud Storage](https://github.com/danielwnn/GCP-Hackathon/tree/main/001-AIandMLOps/Challenge-1)**
+- Challenge 2: **[Deploy the Web app to App Engine](https://github.com/danielwnn/GCP-Hackathon/tree/main/001-AIandMLOps/Challenge-2)**
+- Challenge 3: **[Use AutoML Vision to train a model to recognize faces](https://github.com/danielwnn/GCP-Hackathon/tree/main/001-AIandMLOps/Challenge-3)**
+- Challenge 4: **[Integrate the Web app with the deployed face model](https://github.com/danielwnn/GCP-Hackathon/tree/main/001-AIandMLOps/Challenge-4)**
+- Challenge 5: **[Deploy the Web app to GKE](https://github.com/danielwnn/GCP-Hackathon/tree/main/001-AIandMLOps/Challenge-5)**
+- Challenge 6: **[Create a ML Pipeline to manage dataset, model training and deployment](https://github.com/danielwnn/GCP-Hackathon/tree/main/001-AIandMLOps/Challenge-6)**
+- Challenge 7: **[Automate environment provisioning, app build and deployment](https://github.com/danielwnn/GCP-Hackathon/tree/main/001-AIandMLOps/Challenge-7)**
 
 ## Resources & Helpful Links
 - GCP Project - <https://cloud.google.com/resource-manager/docs/creating-managing-projects>
